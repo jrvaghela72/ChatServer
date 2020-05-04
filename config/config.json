@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "chat_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432,
+    "schema": "public",
+    "logging": true,
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "chat_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432,
+    "schema": "public",
+    "logging": true,
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "chat_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432,
+    "schema": "public",
+    "logging": true,
+    "operatorsAliases": false
+  }
+}
